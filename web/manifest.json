@@ -1,6 +1,6 @@
 {
-    "name": "StackFood",
-    "short_name": "StackFood",
+    "name": "MyanFood",
+    "short_name": "MyanFood",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#EF7822",
