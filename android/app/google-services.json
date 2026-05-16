@@ -9,7 +9,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:823485232405:android:2b89915516d02dcec5651c",
         "android_client_info": {
-          "package_name": "com.myanfood.mm"
+          "package_name": "com.myanfood.mm.mm"
         }
       },
       "oauth_client": [
@@ -17,7 +17,7 @@
           "client_id": "823485232405-134bqrfoee8c4f2vkksksjrh7672gn1v.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.myanfood.mm",
+            "package_name": "com.myanfood.mm.mm",
             "certificate_hash": "a64f8de20a353bc94b9ae389e9e9f6cce3cd635b"
           }
         },
