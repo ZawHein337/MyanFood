@@ -8,7 +8,7 @@ class AppConstants {
 
   static const String fontFamily = 'Roboto';
   static const bool payInWevView = false;
-  static const String webHostedUrl = 'https://myanfoodmm.com';
+  static const String webHostedUrl = '';
   static const bool useReactWebsite = false;
   static const String googleServerClientId = '823485232405-24pgeg34tfjpo7u7af62actkiu0d6isk.apps.googleusercontent.com';
 
